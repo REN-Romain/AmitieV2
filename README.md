@@ -6,6 +6,9 @@ Ce projet est la 2ème version d'un projet effectué à l'IUT d'Orsay qu'on a d�
 
 Il contient le même contenu que la 1ère version mais la présentation est davantage peaufiné et le design plus réfléchi.
 
+Les dossiers contenant les différents fichiers HTML et CSS ont été triés et rangés de sorte à être le plus compréhensibles et simplifiées.
+
+
 Voici quelques screens : 
 
 ![Screen 1](screen/screen1.png)
